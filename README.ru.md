@@ -1,13 +1,13 @@
+Читать: [English](README.md) | [Русский](README.ru.md)
+
 [📖 Читать полную версию на Habr]()
+
 # Java на диете: 38 МБ RAM и старт за 1.2 с. 🚀
 ## Смертный приговор классическим JVM? 💀
 
 <p align="center">
     <img src="images/-90percents.PNG" alt="Java on Diet Meme" width="610">
 </p>
-
-[![EN](https://img.shields.io)](README.md)
-[![RU](https://img.shields.io)](README.ru.md)
 
 > **Этот репозиторий содержит материалы исследования по экстремальной оптимизации Java-стека.**
 

@@ -1,13 +1,13 @@
+Read this in : [English](README.md) | [Русский](README.ru.md)
+
 [📖 Read full version of article on the DZone]()
+
 # Java Lean & Fast: 38 MiB RAM and 1.2s Startup. 🚀
 # Is This the End of the Era for Traditional JVM? 💀
 
 <p align="center">
     <img src="images/-90percents.PNG" alt="Java on Diet Meme" width="610">
 </p>
-
-[![EN](https://img.shields.io)](README.md)
-[![RU](https://img.shields.io)](README.ru.md)
 
 > **This repository contains research materials on extreme Java stack optimization**
 
